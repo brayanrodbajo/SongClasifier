@@ -1,2 +1,2 @@
 # SongClasifier
-Song Clasifier according acoustic features
+Song Clasifier based on the acoustic features
