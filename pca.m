@@ -1,4 +1,4 @@
-X= dlmread ('mfcc1.csv',',');
+X= dlmread ('mfcc.csv',',');
 mu = mean(X)
 Xm = bsxfun(@minus, X, mu);
 C = cov(Xm)
